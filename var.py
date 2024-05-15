@@ -15,3 +15,9 @@ print(type(real)) # output will be boolean(true or false)
 print(type(1+4j)) # output will be complex
 
 #isinstance funcion
+x = 50
+y = 'b'
+print(isinstance(x, float)) # if x == float will return true
+print(isinstance(x, int)) # if x == int will return true 
+print(isinstance(y, str)) # if x == string will return true 
+print(isinstance(x,(int,float))) # test if x == float or int
