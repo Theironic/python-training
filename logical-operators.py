@@ -28,3 +28,16 @@ window = "c"
 alarm = (door == "o") or (window == "o")
 output = "alarm activated ?" + str(alarm)
 print(output, "\n")
+
+#
+
+money = False
+
+output = "you have money ?" + str(money)
+print(output, "\n")
+
+money = False
+money = not money
+
+output = "you have money ?" + str(money)
+print(output, "\n")
