@@ -24,3 +24,7 @@ else:
 
 average = (num1 + num2) / 2
 # Python if elif else statement
+if (average >= 7):
+    print("good boy")
+elif (average >= 5):
+    print("You need to study more")
