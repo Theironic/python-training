@@ -7,7 +7,7 @@ num1 = float(input('enter with number:'))
 num2 = float(input('enter with number:'))
 
 
-# if statements
+# if statements #check /Ifstatemenst for flowchart example
 if (num1 + num2) / 2 >= 7:
     print(f"approved, yours {(num1 + num2) / 2} \n")
 
