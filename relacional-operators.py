@@ -1,3 +1,6 @@
+
+# check examples in /relacional and logical
+
 # var
 x = y = z = False
 num1 = num2 = 0

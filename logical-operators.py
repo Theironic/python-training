@@ -1,3 +1,7 @@
+
+
+# check examples in /relacional and logical
+
 age = 25
 height = 1.75
 
