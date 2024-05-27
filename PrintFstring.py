@@ -32,7 +32,7 @@ print (msg)
 # Now you will see what I use most, fstring
 print(f'testinf f string {name} and {name2}')
 
-# fstring with numbers
+# fstring with numbers s
 x = 10
 y = 20
 print(f'x + y = {x + y}')
